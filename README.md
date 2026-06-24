@@ -1,26 +1,37 @@
-# Hi 👋 I'm Satyam Kumar
+# Hi, I'm Satyam Kumar 👋
 
-☕ Java Backend Developer | Computer Science Student  
-🚀 Focused on building scalable backend systems using Java & Spring Boot  
-💡 Strong in DSA, REST APIs, and system design fundamentals  
+**Computer Science student building full-stack apps, backend systems, and solving way too many DSA problems.**
 
-## 🛠️ Tech Stack
-**Core:** Java, OOPs, Collections, Multithreading  
-**Backend:** Spring Boot, Spring Security, Spring Data JPA  
-**Messaging:** Kafka, Redis  
-**Database:** MySQL, PostgreSQL, MongoDB  
-**Tools:** Docker, Git, GitHub Actions, Linux  
+---
 
-## 📌 What I’m Working On
-- High-performance backend systems
-- Java + Spring Boot projects
-- DSA for placements (Java only)
-- System design practice
+## ⚡ About Me
 
-## 📂 Featured Projects
-- EventFlow (Kafka + Redis backend system)
-- Taskify (Spring Boot + MySQL)
-- Java DSA & Core Java programs
+* CS undergraduate
+* Into full-stack development, backend logic, and real-time systems
+* 300+ DSA problems solved
+* Finalist at Hack Energy 2.0
 
-📫 Email: imsatyamsharma17@gmail.com  
-🔗 LinkedIn: (add link)
+---
+
+## 🛠 Tech Stack
+
+**Languages** — Java, JavaScript, C/C++, SQL
+**Frontend** — React.js, HTML, CSS, Tailwind CSS
+**Backend** — Node.js, Express.js, REST APIs
+**Databases** — MongoDB, MySQL
+**Tools** — Git, GitHub, Docker, JWT, Socket.io
+
+---
+
+## 🚀 Projects
+
+* **FlowBit** — workflow automation platform
+* **FinGuardian** — AI-powered financial contract analysis system
+* **EventFlow** — real-time event activity tracking backend
+
+---
+
+## 📫 Connect
+
+* **Email:** `imsatyamsharma17@gmail.com`
+* **GitHub:** [satyamsharma990](https://github.com/satyamsharma990)
