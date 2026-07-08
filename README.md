@@ -35,3 +35,4 @@
 
 * **Email:** `imsatyamsharma17@gmail.com`
 * **GitHub:** [satyamsharma990](https://github.com/satyamsharma990)
+* **Linkedin:** [satyam---kumar](https://www.linkedin.com/in/satyam---kumar/)
